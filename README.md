@@ -12,6 +12,7 @@ folder: step.1\
 
   - Start with tag "!DOCTYPE html"
 
+    ```
     <!DOCTYPE html>
     <html>
 
@@ -25,6 +26,7 @@ folder: step.1\
     </body>
 
     </html>
+    ```
 
 2. Create server: npm install -g live-server
   - Test with live-server -v -> live-server 1.2.1
