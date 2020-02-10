@@ -1,5 +1,6 @@
 # React Notes
-First steps: BEFORE REACT
+
+## First steps: BEFORE REACT
 
 folder: step.1\
 
@@ -10,6 +11,7 @@ folder: step.1\
   - Tip: Set LF to CRLF.
 
   - Start with tag "!DOCTYPE html"
+
     <!DOCTYPE html>
     <html>
 
