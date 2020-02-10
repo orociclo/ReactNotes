@@ -32,10 +32,12 @@ folder: step.1\
 
   - Test with:
   > live-server -v
-    live-server 1.2.1
+
+  > You get: live-server 1.2.1
 
 3. Run simple index.html: 
     > cd step.1
+
     > live-server public
 
     VOILÁ!
