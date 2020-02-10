@@ -1,3 +1,3 @@
 # ReactNotes
-# ReactNotes
-# ReactNotes
+First steps:
+
