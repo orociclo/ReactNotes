@@ -62,7 +62,8 @@ folder: step.1\
     </body>
 
     </html>
-    ```
+```
+
 2. Check if React is loaded
 
 > Developer tool console: React
