@@ -10,8 +10,6 @@ folder: step.1\
 
   - Tip: Set LF to CRLF.
 
-  - Start with tag "!DOCTYPE html"
-
     ```
     <!DOCTYPE html>
     <html>
@@ -28,11 +26,16 @@ folder: step.1\
     </html>
     ```
 
-2. Create server: npm install -g live-server
-  - Test with live-server -v -> live-server 1.2.1
+2. Create server: 
+
+  > npm install -g live-server
+
+  - Test with:
+  > live-server -v
+    live-server 1.2.1
 
 3. Run simple index.html: 
-    - cd step.1
-    - live-server public
+    > cd step.1
+    > live-server public
 
     VOILÁ!
