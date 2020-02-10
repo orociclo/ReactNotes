@@ -1,10 +1,10 @@
 # React Notes
 
-## First steps: BEFORE REACT
+## Step 1: BEFORE REACT
 
 folder: step.1\
 
-1. Create simple index.html file in the public folder with typical content.
+1. On VSC create simple index.html file in the public folder with typical content.
 
   - Tip: Setup to 2 spaces indetation: [CTRL ,] type "editor tab size" set "2".
 
@@ -41,3 +41,30 @@ folder: step.1\
     > live-server public
 
     VOILÁ!
+
+## Step 2: BASIC REACT
+
+1. On VSC create simple index.html file in the public folder with a call to react library.
+
+```
+    <!DOCTYPE html>
+    <html>
+
+    <head>
+      <meta charset="UTF-8">
+      <title>First app</title>
+    </head>
+
+    <body>
+      <script src="https://unpkg.com/react@16.0.0/umd/react.development.js"></script>
+      <script src="https://unpkg.com/react-dom@16.0.0/umd/react-dom.development.js"></script>
+      <script src="/scripts/app.js"></script>
+    </body>
+
+    </html>
+    ```
+2. Check if React is loaded
+
+> Developer tool console: React
+
+
