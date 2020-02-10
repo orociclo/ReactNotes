@@ -66,6 +66,10 @@ folder: step.1\
 
 2. Check if React is loaded
 
-> Developer tool console: React
+> On Developer Tool Console type: React and ReactDOM
+
+3. Check if Babel is loaded
+
+> On Terminal type: babel --help
 
 
