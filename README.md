@@ -6,8 +6,8 @@ First steps:
     Tip: Setup to 2 spaces indetation: [CTRL ,] type "editor tab size" set "2".
 
     Tip: Set LF to CRLF.
-    
-    Start with "<!DOCTYPE html>"
+
+    Start with "<!DOC TYPE html>"
         <!DOCTYPE html>
         <html>
 
