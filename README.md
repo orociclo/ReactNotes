@@ -7,7 +7,7 @@ First steps:
 
     Tip: Set LF to CRLF.
 
-    Start with "<!DOC TYPE html>"
+    Start with "<DOCTYPE html>"
         <!DOCTYPE html>
         <html>
 
